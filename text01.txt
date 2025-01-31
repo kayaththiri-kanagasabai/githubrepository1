@@ -1,1 +1,6 @@
 created text01.txt file
+
+one 
+two
+three
+
